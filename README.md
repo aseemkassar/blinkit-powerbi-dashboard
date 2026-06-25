@@ -103,7 +103,7 @@ The goal is to replace scattered spreadsheet reporting with a **single, interact
 ## 👤 Author
 
 **[Mohd Aseem]**
-- 🔗 [LinkedIn Profile]((https://www.linkedin.com/in/aseem-kassar-023893348/))
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aseem-kassar-023893348/)
 - 💻 [GitHub Profile](https://github.com/aseemkassar)
 
 ---
